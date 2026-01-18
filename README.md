@@ -7,7 +7,7 @@
     .hero-wrapper {
         position: relative;
         width: 100%;
-        height: 450px !important;
+        height: 490px !important;
         background-color: #000;
         overflow: hidden;
     }
